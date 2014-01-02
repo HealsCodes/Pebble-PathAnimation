@@ -1,0 +1,16 @@
+{
+  "uuid": "dd7a8870-2e61-47c4-9e03-b75fdc3a6560",
+  "shortName": "path-anim-demo",
+  "longName": "PathAnimation Demo",
+  "companyName": "",
+  "versionCode": 100,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+  },
+  "resources": {
+    "media": []
+  }
+}
